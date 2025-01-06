@@ -1,5 +1,10 @@
 # test_task
 
+## Install
+
+- `flutter pub get`
+- `flutter run build_runner build --delete-conflicting-outputs`
+
 1. Реализовать экран с фигмы придерживаясь всех параметров (размер, цвет, шрифт)
 
 - У каждого item есть цветной Container, должна быть возможность на каждый следующий Container в ListView, генерировать цвет фона из 16777216 цветов с использованием RGB
